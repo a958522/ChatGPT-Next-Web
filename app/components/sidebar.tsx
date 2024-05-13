@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ChatGPT NOW
+          ChatGPT Fycloud
         </div>
         <div className={styles["sidebar-sub-title"]}>
           基于gpt-3.5 
